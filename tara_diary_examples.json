@@ -1,0 +1,7233 @@
+[
+  {
+    "entry_id": "2010-09-20_001",
+    "date": "2010-09-20",
+    "year": 2010,
+    "time": "22:20",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 1.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Elysia"
+    ],
+    "tags": [
+      "gratitude",
+      "discovery"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-12-30_002",
+    "date": "2017-12-30",
+    "year": 2017,
+    "time": "20:06",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 2.",
+    "topics": [
+      "food",
+      "work"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Jenny"
+    ],
+    "tags": [
+      "van life",
+      "growth",
+      "Pilates"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-11-15_003",
+    "date": "2018-11-15",
+    "year": 2018,
+    "time": "18:52",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 3.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery",
+      "yoga"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-01-23_004",
+    "date": "2013-01-23",
+    "year": 2013,
+    "time": "12:46",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 4.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress",
+      "challenge",
+      "yoga"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-07-08_005",
+    "date": "2015-07-08",
+    "year": 2015,
+    "time": "16:55",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 5.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Phil"
+    ],
+    "tags": [
+      "relaxation",
+      "Pilates",
+      "yoga"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-04-20_006",
+    "date": "2017-04-20",
+    "year": 2017,
+    "time": "09:19",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 6.",
+    "topics": [
+      "daily routine",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Elysia"
+    ],
+    "tags": [
+      "gratitude",
+      "growth",
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-06-22_007",
+    "date": "2013-06-22",
+    "year": 2013,
+    "time": "08:41",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 7.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Warren"
+    ],
+    "tags": [
+      "growth",
+      "challenge",
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-01-12_008",
+    "date": "2020-01-12",
+    "year": 2020,
+    "time": "13:41",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 8.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "Pilates",
+      "learning",
+      "challenge"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-10-30_009",
+    "date": "2016-10-30",
+    "year": 2016,
+    "time": "12:12",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 9.",
+    "topics": [
+      "relationships",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "gratitude",
+      "discovery"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-07-29_010",
+    "date": "2008-07-29",
+    "year": 2008,
+    "time": "12:54",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 10.",
+    "topics": [
+      "food",
+      "study"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Jess"
+    ],
+    "tags": [
+      "hiking",
+      "learning"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-01-26_011",
+    "date": "2024-01-26",
+    "year": 2024,
+    "time": "11:43",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 11.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "relaxation",
+      "gratitude"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-06-25_012",
+    "date": "2009-06-25",
+    "year": 2009,
+    "time": "19:50",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 12.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-05-03_013",
+    "date": "2016-05-03",
+    "year": 2016,
+    "time": "19:49",
+    "country": "USA",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 13.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-04-20_014",
+    "date": "2008-04-20",
+    "year": 2008,
+    "time": "08:03",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 14.",
+    "topics": [
+      "culture",
+      "work"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Phil"
+    ],
+    "tags": [
+      "Pilates"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-03-24_015",
+    "date": "2011-03-24",
+    "year": 2011,
+    "time": "20:41",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 15.",
+    "topics": [
+      "reflection",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-02-20_016",
+    "date": "2012-02-20",
+    "year": 2012,
+    "time": "20:12",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 16.",
+    "topics": [
+      "work",
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-07-29_017",
+    "date": "2021-07-29",
+    "year": 2021,
+    "time": "11:31",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 17.",
+    "topics": [
+      "work",
+      "study"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "routine",
+      "challenge"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-05-03_018",
+    "date": "2011-05-03",
+    "year": 2011,
+    "time": "17:05",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 18.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-02-13_019",
+    "date": "2012-02-13",
+    "year": 2012,
+    "time": "14:22",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 19.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Jess"
+    ],
+    "tags": [
+      "routine",
+      "growth",
+      "discovery"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-11-22_020",
+    "date": "2014-11-22",
+    "year": 2014,
+    "time": "09:24",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 20.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-06-20_021",
+    "date": "2022-06-20",
+    "year": 2022,
+    "time": "07:07",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 21.",
+    "topics": [
+      "daily routine",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "Pilates",
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-09-20_022",
+    "date": "2002-09-20",
+    "year": 2002,
+    "time": "11:23",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 22.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "relaxation",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-06-17_023",
+    "date": "2020-06-17",
+    "year": 2020,
+    "time": "10:02",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 23.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-09-22_024",
+    "date": "2016-09-22",
+    "year": 2016,
+    "time": "07:40",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 24.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "routine",
+      "van life",
+      "learning"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-12-08_025",
+    "date": "2005-12-08",
+    "year": 2005,
+    "time": "12:13",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 25.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "gratitude"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-12-09_026",
+    "date": "2005-12-09",
+    "year": 2005,
+    "time": "19:30",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 26.",
+    "topics": [
+      "relationships",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Elysia"
+    ],
+    "tags": [
+      "gratitude",
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-09-24_027",
+    "date": "2024-09-24",
+    "year": 2024,
+    "time": "14:55",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 27.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "Pilates"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-07-19_028",
+    "date": "2010-07-19",
+    "year": 2010,
+    "time": "20:51",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 28.",
+    "topics": [
+      "events",
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates",
+      "discovery"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-08-19_029",
+    "date": "2023-08-19",
+    "year": 2023,
+    "time": "20:40",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 29.",
+    "topics": [
+      "reflection",
+      "work"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Elysia"
+    ],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-12-06_030",
+    "date": "2017-12-06",
+    "year": 2017,
+    "time": "19:30",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 30.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "learning",
+      "discovery",
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-08-08_031",
+    "date": "2002-08-08",
+    "year": 2002,
+    "time": "16:57",
+    "country": "USA",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 31.",
+    "topics": [
+      "work",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Jess"
+    ],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-08-04_032",
+    "date": "2016-08-04",
+    "year": 2016,
+    "time": "13:25",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 32.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "discovery",
+      "yoga",
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-12-13_033",
+    "date": "2002-12-13",
+    "year": 2002,
+    "time": "20:21",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 33.",
+    "topics": [
+      "daily routine",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth",
+      "discovery",
+      "Pilates"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-12-01_034",
+    "date": "2024-12-01",
+    "year": 2024,
+    "time": "18:37",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 34.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "yoga",
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-11-04_035",
+    "date": "2016-11-04",
+    "year": 2016,
+    "time": "15:22",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 35.",
+    "topics": [
+      "reflection",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Trevor"
+    ],
+    "tags": [
+      "learning",
+      "relaxation",
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-01-20_036",
+    "date": "2008-01-20",
+    "year": 2008,
+    "time": "22:42",
+    "country": "New Zealand",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 36.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Elysia"
+    ],
+    "tags": [
+      "Pilates",
+      "learning",
+      "yoga"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-06-01_037",
+    "date": "2005-06-01",
+    "year": 2005,
+    "time": "06:26",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 37.",
+    "topics": [
+      "study",
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-01-17_038",
+    "date": "2008-01-17",
+    "year": 2008,
+    "time": "22:22",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 38.",
+    "topics": [
+      "daily routine",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "relaxation",
+      "van life",
+      "yoga"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-09-28_039",
+    "date": "2007-09-28",
+    "year": 2007,
+    "time": "06:20",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 39.",
+    "topics": [
+      "weather",
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "gratitude",
+      "stress"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-03-19_040",
+    "date": "2008-03-19",
+    "year": 2008,
+    "time": "16:13",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 40.",
+    "topics": [
+      "events",
+      "culture"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge",
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-02-08_041",
+    "date": "2023-02-08",
+    "year": 2023,
+    "time": "16:55",
+    "country": "USA",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 41.",
+    "topics": [
+      "study",
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-11-02_042",
+    "date": "2019-11-02",
+    "year": 2019,
+    "time": "08:41",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 42.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Mum"
+    ],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-11-04_043",
+    "date": "2015-11-04",
+    "year": 2015,
+    "time": "13:18",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 43.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Elysia"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-08-02_044",
+    "date": "2022-08-02",
+    "year": 2022,
+    "time": "09:01",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 44.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth",
+      "stress"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-05-01_045",
+    "date": "2009-05-01",
+    "year": 2009,
+    "time": "08:43",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 45.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-01-08_046",
+    "date": "2008-01-08",
+    "year": 2008,
+    "time": "18:47",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 46.",
+    "topics": [
+      "daily routine",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Mum"
+    ],
+    "tags": [
+      "yoga",
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-10-26_047",
+    "date": "2004-10-26",
+    "year": 2004,
+    "time": "15:52",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 47.",
+    "topics": [
+      "reflection",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "routine",
+      "hiking",
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-05-17_048",
+    "date": "2019-05-17",
+    "year": 2019,
+    "time": "22:00",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 48.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-05-17_049",
+    "date": "2005-05-17",
+    "year": 2005,
+    "time": "14:43",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 49.",
+    "topics": [
+      "events",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Jenny"
+    ],
+    "tags": [
+      "Pilates",
+      "growth",
+      "gratitude"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-07-31_050",
+    "date": "2007-07-31",
+    "year": 2007,
+    "time": "11:35",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 50.",
+    "topics": [
+      "reflection",
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "hiking"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-07-12_051",
+    "date": "2014-07-12",
+    "year": 2014,
+    "time": "06:38",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 51.",
+    "topics": [
+      "relationships",
+      "food"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Trevor"
+    ],
+    "tags": [
+      "yoga",
+      "van life"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-06-12_052",
+    "date": "2007-06-12",
+    "year": 2007,
+    "time": "18:13",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 52.",
+    "topics": [
+      "daily routine",
+      "food"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Elysia"
+    ],
+    "tags": [
+      "growth",
+      "relaxation",
+      "yoga"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-04-18_053",
+    "date": "2018-04-18",
+    "year": 2018,
+    "time": "10:23",
+    "country": "USA",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 53.",
+    "topics": [
+      "reflection",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "van life",
+      "routine",
+      "relaxation"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-05-17_054",
+    "date": "2012-05-17",
+    "year": 2012,
+    "time": "17:17",
+    "country": "India",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 54.",
+    "topics": [
+      "study",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-02-23_055",
+    "date": "2022-02-23",
+    "year": 2022,
+    "time": "13:35",
+    "country": "India",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 55.",
+    "topics": [
+      "events",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "relaxation",
+      "challenge"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-03-30_056",
+    "date": "2020-03-30",
+    "year": 2020,
+    "time": "10:42",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 56.",
+    "topics": [
+      "work",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-11-16_057",
+    "date": "2021-11-16",
+    "year": 2021,
+    "time": "20:22",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 57.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "hiking",
+      "challenge"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-09-14_058",
+    "date": "2009-09-14",
+    "year": 2009,
+    "time": "10:00",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 58.",
+    "topics": [
+      "reflection",
+      "work"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "learning",
+      "yoga"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-05-26_059",
+    "date": "2002-05-26",
+    "year": 2002,
+    "time": "09:59",
+    "country": "Indonesia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 59.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Jenny",
+      "Warren"
+    ],
+    "tags": [
+      "van life",
+      "gratitude"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-04-28_060",
+    "date": "2010-04-28",
+    "year": 2010,
+    "time": "07:04",
+    "country": "USA",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 60.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Phil"
+    ],
+    "tags": [
+      "yoga",
+      "stress",
+      "gratitude"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-06-04_061",
+    "date": "2016-06-04",
+    "year": 2016,
+    "time": "21:32",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 61.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth",
+      "van life"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-01-05_062",
+    "date": "2015-01-05",
+    "year": 2015,
+    "time": "19:38",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 62.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "gratitude",
+      "van life"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-12-11_063",
+    "date": "2006-12-11",
+    "year": 2006,
+    "time": "10:47",
+    "country": "Fiji",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 63.",
+    "topics": [
+      "food",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "challenge",
+      "routine",
+      "gratitude"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-10-31_064",
+    "date": "2024-10-31",
+    "year": 2024,
+    "time": "12:31",
+    "country": "Papua New Guinea",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 64.",
+    "topics": [
+      "study",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Jess"
+    ],
+    "tags": [
+      "discovery",
+      "yoga",
+      "Pilates"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-04-20_065",
+    "date": "2012-04-20",
+    "year": 2012,
+    "time": "07:24",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 65.",
+    "topics": [
+      "study",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-05-14_066",
+    "date": "2015-05-14",
+    "year": 2015,
+    "time": "15:18",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 66.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-04-25_067",
+    "date": "2009-04-25",
+    "year": 2009,
+    "time": "12:41",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 67.",
+    "topics": [
+      "travel",
+      "study"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Jess"
+    ],
+    "tags": [
+      "challenge"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-07-07_068",
+    "date": "2016-07-07",
+    "year": 2016,
+    "time": "16:56",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 68.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-03-04_069",
+    "date": "2014-03-04",
+    "year": 2014,
+    "time": "08:14",
+    "country": "Fiji",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 69.",
+    "topics": [
+      "work",
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Mum"
+    ],
+    "tags": [
+      "van life",
+      "stress"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-06-24_070",
+    "date": "2020-06-24",
+    "year": 2020,
+    "time": "18:54",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 70.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "relaxation",
+      "challenge"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-11-25_071",
+    "date": "2021-11-25",
+    "year": 2021,
+    "time": "08:04",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 71.",
+    "topics": [
+      "events",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Jess"
+    ],
+    "tags": [
+      "van life",
+      "routine",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-05-27_072",
+    "date": "2015-05-27",
+    "year": 2015,
+    "time": "14:48",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 72.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates",
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-06-21_073",
+    "date": "2006-06-21",
+    "year": 2006,
+    "time": "07:32",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 73.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Phil"
+    ],
+    "tags": [
+      "gratitude"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-09-18_074",
+    "date": "2004-09-18",
+    "year": 2004,
+    "time": "21:49",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 74.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Mum"
+    ],
+    "tags": [
+      "challenge",
+      "stress",
+      "hiking"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-06-12_075",
+    "date": "2021-06-12",
+    "year": 2021,
+    "time": "17:38",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 75.",
+    "topics": [
+      "relationships",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-12-01_076",
+    "date": "2023-12-01",
+    "year": 2023,
+    "time": "15:57",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 76.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Phil"
+    ],
+    "tags": [
+      "van life",
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-01-20_077",
+    "date": "2019-01-20",
+    "year": 2019,
+    "time": "14:08",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 77.",
+    "topics": [
+      "daily routine",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "yoga",
+      "Pilates",
+      "relaxation"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-11-18_078",
+    "date": "2007-11-18",
+    "year": 2007,
+    "time": "08:02",
+    "country": "India",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 78.",
+    "topics": [
+      "culture",
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "routine",
+      "gratitude"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-02-06_079",
+    "date": "2010-02-06",
+    "year": 2010,
+    "time": "10:57",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 79.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress",
+      "routine"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-03-11_080",
+    "date": "2012-03-11",
+    "year": 2012,
+    "time": "19:23",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 80.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge",
+      "relaxation"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-12-16_081",
+    "date": "2004-12-16",
+    "year": 2004,
+    "time": "11:36",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 81.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-07-24_082",
+    "date": "2024-07-24",
+    "year": 2024,
+    "time": "09:24",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 82.",
+    "topics": [
+      "food",
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates",
+      "stress"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-06-23_083",
+    "date": "2024-06-23",
+    "year": 2024,
+    "time": "07:00",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 83.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Mum"
+    ],
+    "tags": [
+      "relaxation",
+      "challenge"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-06-05_084",
+    "date": "2021-06-05",
+    "year": 2021,
+    "time": "06:12",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 84.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Phil"
+    ],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-07-17_085",
+    "date": "2023-07-17",
+    "year": 2023,
+    "time": "20:23",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 85.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-08-14_086",
+    "date": "2010-08-14",
+    "year": 2010,
+    "time": "08:53",
+    "country": "Papua New Guinea",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 86.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jess"
+    ],
+    "tags": [
+      "routine",
+      "learning"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2003-09-24_087",
+    "date": "2003-09-24",
+    "year": 2003,
+    "time": "09:04",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 87.",
+    "topics": [
+      "reflection",
+      "events"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "challenge"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-06-08_088",
+    "date": "2009-06-08",
+    "year": 2009,
+    "time": "10:15",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 88.",
+    "topics": [
+      "travel",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Warren"
+    ],
+    "tags": [
+      "discovery",
+      "van life",
+      "yoga"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-01-07_089",
+    "date": "2015-01-07",
+    "year": 2015,
+    "time": "12:53",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 89.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "challenge",
+      "growth",
+      "stress"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-04-16_090",
+    "date": "2012-04-16",
+    "year": 2012,
+    "time": "11:25",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 90.",
+    "topics": [
+      "travel",
+      "work"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "yoga",
+      "van life",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-07-26_091",
+    "date": "2024-07-26",
+    "year": 2024,
+    "time": "15:46",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 91.",
+    "topics": [
+      "relationships",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Byron"
+    ],
+    "tags": [
+      "relaxation",
+      "Pilates"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-04-11_092",
+    "date": "2010-04-11",
+    "year": 2010,
+    "time": "06:04",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 92.",
+    "topics": [
+      "study",
+      "food"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jess"
+    ],
+    "tags": [
+      "yoga",
+      "stress",
+      "discovery"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-10-11_093",
+    "date": "2019-10-11",
+    "year": 2019,
+    "time": "07:23",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 93.",
+    "topics": [
+      "relationships",
+      "work"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "stress",
+      "growth"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-06-30_094",
+    "date": "2007-06-30",
+    "year": 2007,
+    "time": "09:30",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 94.",
+    "topics": [
+      "relationships",
+      "culture"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-09-04_095",
+    "date": "2006-09-04",
+    "year": 2006,
+    "time": "13:38",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 95.",
+    "topics": [
+      "weather",
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "van life",
+      "hiking"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-09-08_096",
+    "date": "2009-09-08",
+    "year": 2009,
+    "time": "10:20",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 96.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "learning",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2003-11-15_097",
+    "date": "2003-11-15",
+    "year": 2003,
+    "time": "11:03",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 97.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-08-22_098",
+    "date": "2017-08-22",
+    "year": 2017,
+    "time": "14:05",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 98.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "routine",
+      "challenge"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-12-11_099",
+    "date": "2017-12-11",
+    "year": 2017,
+    "time": "22:26",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 99.",
+    "topics": [
+      "travel",
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-03-07_100",
+    "date": "2008-03-07",
+    "year": 2008,
+    "time": "08:16",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 100.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "relaxation",
+      "learning",
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-06-10_101",
+    "date": "2024-06-10",
+    "year": 2024,
+    "time": "18:11",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 101.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Elysia"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-04-01_102",
+    "date": "2011-04-01",
+    "year": 2011,
+    "time": "16:38",
+    "country": "New Zealand",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 102.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "routine",
+      "relaxation"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-12-18_103",
+    "date": "2015-12-18",
+    "year": 2015,
+    "time": "18:33",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 103.",
+    "topics": [
+      "events",
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "yoga",
+      "relaxation"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-10-15_104",
+    "date": "2016-10-15",
+    "year": 2016,
+    "time": "22:10",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 104.",
+    "topics": [
+      "culture",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "learning",
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-10-26_105",
+    "date": "2010-10-26",
+    "year": 2010,
+    "time": "16:12",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 105.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress",
+      "yoga",
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-03-05_106",
+    "date": "2012-03-05",
+    "year": 2012,
+    "time": "18:54",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 106.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jenny",
+      "Phil"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-08-24_107",
+    "date": "2022-08-24",
+    "year": 2022,
+    "time": "06:22",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 107.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Mum"
+    ],
+    "tags": [
+      "discovery",
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-01-24_108",
+    "date": "2015-01-24",
+    "year": 2015,
+    "time": "10:59",
+    "country": "Fiji",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 108.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "relaxation",
+      "Pilates"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-06-18_109",
+    "date": "2015-06-18",
+    "year": 2015,
+    "time": "20:49",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 109.",
+    "topics": [
+      "reflection",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "stress",
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2003-06-01_110",
+    "date": "2003-06-01",
+    "year": 2003,
+    "time": "10:48",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 110.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "discovery",
+      "hiking",
+      "challenge"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-03-23_111",
+    "date": "2023-03-23",
+    "year": 2023,
+    "time": "21:10",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 111.",
+    "topics": [
+      "reflection",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Trevor"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-02-22_112",
+    "date": "2020-02-22",
+    "year": 2020,
+    "time": "17:55",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 112.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-06-18_113",
+    "date": "2013-06-18",
+    "year": 2013,
+    "time": "09:04",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 113.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "hiking",
+      "learning"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-02-10_114",
+    "date": "2013-02-10",
+    "year": 2013,
+    "time": "08:55",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 114.",
+    "topics": [
+      "weather",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Elysia"
+    ],
+    "tags": [
+      "growth",
+      "Pilates"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-10-19_115",
+    "date": "2021-10-19",
+    "year": 2021,
+    "time": "21:33",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 115.",
+    "topics": [
+      "study",
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "routine",
+      "relaxation"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-08-04_116",
+    "date": "2006-08-04",
+    "year": 2006,
+    "time": "17:49",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 116.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "yoga",
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-06-08_117",
+    "date": "2007-06-08",
+    "year": 2007,
+    "time": "13:54",
+    "country": "New Zealand",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 117.",
+    "topics": [
+      "travel",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "hiking",
+      "stress",
+      "Pilates"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-05-11_118",
+    "date": "2005-05-11",
+    "year": 2005,
+    "time": "22:16",
+    "country": "New Zealand",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 118.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-04-09_119",
+    "date": "2015-04-09",
+    "year": 2015,
+    "time": "19:13",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 119.",
+    "topics": [
+      "study",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "routine",
+      "Pilates"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-07-09_120",
+    "date": "2024-07-09",
+    "year": 2024,
+    "time": "18:24",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 120.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Trevor"
+    ],
+    "tags": [
+      "challenge",
+      "stress",
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-09-28_121",
+    "date": "2008-09-28",
+    "year": 2008,
+    "time": "17:07",
+    "country": "USA",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 121.",
+    "topics": [
+      "reflection",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth",
+      "stress",
+      "learning"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-01-18_122",
+    "date": "2021-01-18",
+    "year": 2021,
+    "time": "18:59",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 122.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Jess"
+    ],
+    "tags": [
+      "van life",
+      "growth"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-07-12_123",
+    "date": "2011-07-12",
+    "year": 2011,
+    "time": "22:53",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 123.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Warren"
+    ],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-11-28_124",
+    "date": "2013-11-28",
+    "year": 2013,
+    "time": "09:51",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 124.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Phil"
+    ],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-09-27_125",
+    "date": "2012-09-27",
+    "year": 2012,
+    "time": "13:42",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 125.",
+    "topics": [
+      "weather",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "Pilates",
+      "gratitude",
+      "discovery"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-12-30_126",
+    "date": "2018-12-30",
+    "year": 2018,
+    "time": "07:45",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 126.",
+    "topics": [
+      "weather",
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "learning"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-12-07_127",
+    "date": "2015-12-07",
+    "year": 2015,
+    "time": "09:49",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 127.",
+    "topics": [
+      "weather",
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "discovery",
+      "growth",
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-02-06_128",
+    "date": "2009-02-06",
+    "year": 2009,
+    "time": "08:05",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 128.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-02-11_129",
+    "date": "2005-02-11",
+    "year": 2005,
+    "time": "08:29",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 129.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-10-07_130",
+    "date": "2019-10-07",
+    "year": 2019,
+    "time": "06:38",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 130.",
+    "topics": [
+      "reflection",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-06-04_131",
+    "date": "2005-06-04",
+    "year": 2005,
+    "time": "12:17",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 131.",
+    "topics": [
+      "study",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "relaxation",
+      "growth",
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-12-12_132",
+    "date": "2011-12-12",
+    "year": 2011,
+    "time": "12:51",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 132.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "Pilates"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-05-22_133",
+    "date": "2020-05-22",
+    "year": 2020,
+    "time": "18:16",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 133.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-08-11_134",
+    "date": "2009-08-11",
+    "year": 2009,
+    "time": "18:40",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 134.",
+    "topics": [
+      "culture",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "challenge",
+      "discovery"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-07-11_135",
+    "date": "2005-07-11",
+    "year": 2005,
+    "time": "20:57",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 135.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "yoga",
+      "stress"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-07-11_136",
+    "date": "2009-07-11",
+    "year": 2009,
+    "time": "22:12",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 136.",
+    "topics": [
+      "work",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "van life",
+      "relaxation",
+      "Pilates"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-04-03_137",
+    "date": "2024-04-03",
+    "year": 2024,
+    "time": "09:41",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 137.",
+    "topics": [
+      "study",
+      "work"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Trevor"
+    ],
+    "tags": [
+      "routine",
+      "discovery"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-03-10_138",
+    "date": "2015-03-10",
+    "year": 2015,
+    "time": "11:44",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 138.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jenny"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-10-19_139",
+    "date": "2014-10-19",
+    "year": 2014,
+    "time": "15:17",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 139.",
+    "topics": [
+      "reflection",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Elysia"
+    ],
+    "tags": [
+      "growth",
+      "hiking"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-04-08_140",
+    "date": "2018-04-08",
+    "year": 2018,
+    "time": "16:27",
+    "country": "India",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 140.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "growth",
+      "van life",
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-01-03_141",
+    "date": "2012-01-03",
+    "year": 2012,
+    "time": "06:55",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 141.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Byron"
+    ],
+    "tags": [
+      "challenge",
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-10-29_142",
+    "date": "2016-10-29",
+    "year": 2016,
+    "time": "10:50",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 142.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Trevor"
+    ],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-04-01_143",
+    "date": "2011-04-01",
+    "year": 2011,
+    "time": "11:25",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 143.",
+    "topics": [
+      "study",
+      "events"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Warren"
+    ],
+    "tags": [
+      "routine",
+      "stress",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-01-18_144",
+    "date": "2020-01-18",
+    "year": 2020,
+    "time": "07:21",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 144.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Jenny"
+    ],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-03-07_145",
+    "date": "2022-03-07",
+    "year": 2022,
+    "time": "20:39",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 145.",
+    "topics": [
+      "culture",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates",
+      "yoga"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-02-09_146",
+    "date": "2005-02-09",
+    "year": 2005,
+    "time": "20:23",
+    "country": "Papua New Guinea",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 146.",
+    "topics": [
+      "daily routine",
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress",
+      "yoga"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-03-03_147",
+    "date": "2008-03-03",
+    "year": 2008,
+    "time": "11:23",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 147.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Mum"
+    ],
+    "tags": [
+      "yoga",
+      "Pilates"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-07-23_148",
+    "date": "2008-07-23",
+    "year": 2008,
+    "time": "18:10",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 148.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-04-29_149",
+    "date": "2018-04-29",
+    "year": 2018,
+    "time": "18:42",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 149.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "discovery"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-04-28_150",
+    "date": "2012-04-28",
+    "year": 2012,
+    "time": "19:09",
+    "country": "Indonesia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 150.",
+    "topics": [
+      "relationships",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "hiking",
+      "van life",
+      "gratitude"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-01-10_151",
+    "date": "2023-01-10",
+    "year": 2023,
+    "time": "09:28",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 151.",
+    "topics": [
+      "culture",
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "challenge",
+      "hiking",
+      "yoga"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-11-27_152",
+    "date": "2004-11-27",
+    "year": 2004,
+    "time": "17:17",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 152.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "stress",
+      "relaxation"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-05-21_153",
+    "date": "2023-05-21",
+    "year": 2023,
+    "time": "09:13",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 153.",
+    "topics": [
+      "study",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "Pilates",
+      "challenge",
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-12-14_154",
+    "date": "2007-12-14",
+    "year": 2007,
+    "time": "12:49",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 154.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "challenge",
+      "growth",
+      "relaxation"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-11-30_155",
+    "date": "2020-11-30",
+    "year": 2020,
+    "time": "14:26",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 155.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-11-12_156",
+    "date": "2019-11-12",
+    "year": 2019,
+    "time": "18:52",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 156.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "challenge",
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-08-14_157",
+    "date": "2013-08-14",
+    "year": 2013,
+    "time": "09:16",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 157.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge",
+      "relaxation",
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-12-11_158",
+    "date": "2011-12-11",
+    "year": 2011,
+    "time": "14:13",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 158.",
+    "topics": [
+      "relationships",
+      "events"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-05-04_159",
+    "date": "2015-05-04",
+    "year": 2015,
+    "time": "15:28",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 159.",
+    "topics": [
+      "weather",
+      "food"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "Pilates"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-09-28_160",
+    "date": "2007-09-28",
+    "year": 2007,
+    "time": "08:55",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 160.",
+    "topics": [
+      "events",
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-04-04_161",
+    "date": "2007-04-04",
+    "year": 2007,
+    "time": "17:16",
+    "country": "USA",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 161.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "routine",
+      "hiking",
+      "Pilates"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-03-19_162",
+    "date": "2009-03-19",
+    "year": 2009,
+    "time": "09:29",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 162.",
+    "topics": [
+      "reflection",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Byron"
+    ],
+    "tags": [
+      "gratitude"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-07-30_163",
+    "date": "2011-07-30",
+    "year": 2011,
+    "time": "08:24",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 163.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-08-09_164",
+    "date": "2020-08-09",
+    "year": 2020,
+    "time": "21:04",
+    "country": "Fiji",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 164.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge",
+      "van life"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-01-11_165",
+    "date": "2012-01-11",
+    "year": 2012,
+    "time": "15:35",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 165.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress",
+      "gratitude"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-10-13_166",
+    "date": "2020-10-13",
+    "year": 2020,
+    "time": "14:10",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 166.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "yoga"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-08-14_167",
+    "date": "2010-08-14",
+    "year": 2010,
+    "time": "11:20",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 167.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "gratitude"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-04-26_168",
+    "date": "2002-04-26",
+    "year": 2002,
+    "time": "07:13",
+    "country": "Fiji",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 168.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-04-25_169",
+    "date": "2008-04-25",
+    "year": 2008,
+    "time": "16:17",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 169.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-01-21_170",
+    "date": "2020-01-21",
+    "year": 2020,
+    "time": "07:52",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 170.",
+    "topics": [
+      "work",
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Mum"
+    ],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-11-15_171",
+    "date": "2019-11-15",
+    "year": 2019,
+    "time": "19:44",
+    "country": "USA",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 171.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Jenny"
+    ],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-07-23_172",
+    "date": "2018-07-23",
+    "year": 2018,
+    "time": "14:01",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 172.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-07-04_173",
+    "date": "2019-07-04",
+    "year": 2019,
+    "time": "16:04",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 173.",
+    "topics": [
+      "relationships",
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-05-03_174",
+    "date": "2022-05-03",
+    "year": 2022,
+    "time": "08:28",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 174.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-01-03_175",
+    "date": "2013-01-03",
+    "year": 2013,
+    "time": "08:57",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 175.",
+    "topics": [
+      "food",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "discovery",
+      "growth",
+      "routine"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-10-20_176",
+    "date": "2022-10-20",
+    "year": 2022,
+    "time": "16:06",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 176.",
+    "topics": [
+      "culture",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "routine",
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-02-22_177",
+    "date": "2019-02-22",
+    "year": 2019,
+    "time": "16:20",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 177.",
+    "topics": [
+      "work",
+      "events"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "challenge",
+      "yoga",
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-11-13_178",
+    "date": "2023-11-13",
+    "year": 2023,
+    "time": "13:27",
+    "country": "USA",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 178.",
+    "topics": [
+      "relationships",
+      "events"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "learning",
+      "van life",
+      "Pilates"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-11-22_179",
+    "date": "2019-11-22",
+    "year": 2019,
+    "time": "10:30",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 179.",
+    "topics": [
+      "travel",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-10-13_180",
+    "date": "2008-10-13",
+    "year": 2008,
+    "time": "22:37",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 180.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Trevor"
+    ],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-05-18_181",
+    "date": "2007-05-18",
+    "year": 2007,
+    "time": "07:51",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 181.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Trevor"
+    ],
+    "tags": [
+      "yoga",
+      "hiking"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-04-29_182",
+    "date": "2002-04-29",
+    "year": 2002,
+    "time": "11:02",
+    "country": "Papua New Guinea",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 182.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge",
+      "Pilates"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-12-11_183",
+    "date": "2011-12-11",
+    "year": 2011,
+    "time": "06:13",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 183.",
+    "topics": [
+      "weather",
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "learning",
+      "yoga",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-12-07_184",
+    "date": "2011-12-07",
+    "year": 2011,
+    "time": "09:52",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 184.",
+    "topics": [
+      "reflection",
+      "events"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Warren"
+    ],
+    "tags": [
+      "hiking",
+      "gratitude",
+      "stress"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-02-03_185",
+    "date": "2006-02-03",
+    "year": 2006,
+    "time": "12:03",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 185.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Warren"
+    ],
+    "tags": [
+      "learning",
+      "stress",
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-07-30_186",
+    "date": "2009-07-30",
+    "year": 2009,
+    "time": "14:14",
+    "country": "India",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 186.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "Pilates",
+      "gratitude",
+      "growth"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-08-20_187",
+    "date": "2007-08-20",
+    "year": 2007,
+    "time": "13:29",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 187.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery",
+      "hiking",
+      "stress"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-10-08_188",
+    "date": "2013-10-08",
+    "year": 2013,
+    "time": "16:17",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 188.",
+    "topics": [
+      "relationships",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Byron"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-09-01_189",
+    "date": "2009-09-01",
+    "year": 2009,
+    "time": "12:37",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 189.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-01-01_190",
+    "date": "2015-01-01",
+    "year": 2015,
+    "time": "17:03",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 190.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "hiking",
+      "routine",
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2003-05-19_191",
+    "date": "2003-05-19",
+    "year": 2003,
+    "time": "10:50",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 191.",
+    "topics": [
+      "relationships",
+      "events"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Mum"
+    ],
+    "tags": [
+      "discovery",
+      "van life"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-03-30_192",
+    "date": "2017-03-30",
+    "year": 2017,
+    "time": "10:55",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 192.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "gratitude",
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-08-28_193",
+    "date": "2002-08-28",
+    "year": 2002,
+    "time": "10:27",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 193.",
+    "topics": [
+      "work",
+      "study"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Phil"
+    ],
+    "tags": [
+      "stress",
+      "hiking",
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-01-24_194",
+    "date": "2016-01-24",
+    "year": 2016,
+    "time": "20:52",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 194.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Jenny"
+    ],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-04-20_195",
+    "date": "2014-04-20",
+    "year": 2014,
+    "time": "20:04",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 195.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Mum"
+    ],
+    "tags": [
+      "stress",
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-05-26_196",
+    "date": "2012-05-26",
+    "year": 2012,
+    "time": "12:05",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 196.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "van life"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-09-04_197",
+    "date": "2020-09-04",
+    "year": 2020,
+    "time": "20:05",
+    "country": "USA",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 197.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Elysia"
+    ],
+    "tags": [
+      "van life",
+      "stress",
+      "Pilates"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-11-06_198",
+    "date": "2009-11-06",
+    "year": 2009,
+    "time": "13:27",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 198.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "routine",
+      "learning",
+      "Pilates"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-03-24_199",
+    "date": "2022-03-24",
+    "year": 2022,
+    "time": "10:33",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 199.",
+    "topics": [
+      "travel",
+      "events"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Elysia"
+    ],
+    "tags": [
+      "challenge",
+      "van life",
+      "Pilates"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-05-30_200",
+    "date": "2022-05-30",
+    "year": 2022,
+    "time": "17:13",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 200.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Phil"
+    ],
+    "tags": [
+      "routine",
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-01-22_201",
+    "date": "2015-01-22",
+    "year": 2015,
+    "time": "09:38",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 201.",
+    "topics": [
+      "weather",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "routine",
+      "growth"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-07-20_202",
+    "date": "2016-07-20",
+    "year": 2016,
+    "time": "09:51",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 202.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "discovery",
+      "challenge",
+      "gratitude"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-01-30_203",
+    "date": "2015-01-30",
+    "year": 2015,
+    "time": "15:10",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 203.",
+    "topics": [
+      "work",
+      "culture"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth",
+      "gratitude"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-10-29_204",
+    "date": "2016-10-29",
+    "year": 2016,
+    "time": "06:51",
+    "country": "Canada",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 204.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-05-25_205",
+    "date": "2015-05-25",
+    "year": 2015,
+    "time": "22:37",
+    "country": "USA",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 205.",
+    "topics": [
+      "food",
+      "events"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-01-18_206",
+    "date": "2014-01-18",
+    "year": 2014,
+    "time": "12:58",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 206.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "discovery",
+      "challenge",
+      "learning"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-08-07_207",
+    "date": "2017-08-07",
+    "year": 2017,
+    "time": "14:30",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 207.",
+    "topics": [
+      "reflection",
+      "study"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "stress",
+      "gratitude"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-05-26_208",
+    "date": "2014-05-26",
+    "year": 2014,
+    "time": "12:39",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 208.",
+    "topics": [
+      "study",
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "relaxation",
+      "growth"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-04-10_209",
+    "date": "2004-04-10",
+    "year": 2004,
+    "time": "15:11",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 209.",
+    "topics": [
+      "culture",
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-11-14_210",
+    "date": "2002-11-14",
+    "year": 2002,
+    "time": "13:46",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 210.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "stress",
+      "Pilates",
+      "yoga"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-12-29_211",
+    "date": "2023-12-29",
+    "year": 2023,
+    "time": "16:05",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 211.",
+    "topics": [
+      "study",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-09-02_212",
+    "date": "2023-09-02",
+    "year": 2023,
+    "time": "06:29",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 212.",
+    "topics": [
+      "daily routine",
+      "events"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "challenge",
+      "stress",
+      "relaxation"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-01-19_213",
+    "date": "2004-01-19",
+    "year": 2004,
+    "time": "10:07",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 213.",
+    "topics": [
+      "daily routine",
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "yoga",
+      "discovery",
+      "gratitude"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-10-11_214",
+    "date": "2007-10-11",
+    "year": 2007,
+    "time": "15:51",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 214.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jenny",
+      "Elysia"
+    ],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-04-30_215",
+    "date": "2011-04-30",
+    "year": 2011,
+    "time": "21:37",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 215.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Trevor"
+    ],
+    "tags": [
+      "Pilates"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2003-01-25_216",
+    "date": "2003-01-25",
+    "year": 2003,
+    "time": "18:41",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 216.",
+    "topics": [
+      "reflection",
+      "events"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Mum"
+    ],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-09-01_217",
+    "date": "2024-09-01",
+    "year": 2024,
+    "time": "16:10",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 217.",
+    "topics": [
+      "travel",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-07-08_218",
+    "date": "2018-07-08",
+    "year": 2018,
+    "time": "20:22",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 218.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "van life",
+      "routine",
+      "challenge"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-05-21_219",
+    "date": "2019-05-21",
+    "year": 2019,
+    "time": "09:01",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 219.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "relaxation",
+      "van life"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-10-31_220",
+    "date": "2010-10-31",
+    "year": 2010,
+    "time": "15:28",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 220.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Jess"
+    ],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2023-09-09_221",
+    "date": "2023-09-09",
+    "year": 2023,
+    "time": "09:16",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 221.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-10-10_222",
+    "date": "2015-10-10",
+    "year": 2015,
+    "time": "17:30",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 222.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Mum"
+    ],
+    "tags": [
+      "discovery",
+      "gratitude"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-10-04_223",
+    "date": "2022-10-04",
+    "year": 2022,
+    "time": "11:08",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 223.",
+    "topics": [
+      "travel",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "yoga",
+      "discovery"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-03-09_224",
+    "date": "2002-03-09",
+    "year": 2002,
+    "time": "07:19",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 224.",
+    "topics": [
+      "work",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Phil"
+    ],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-05-11_225",
+    "date": "2017-05-11",
+    "year": 2017,
+    "time": "19:48",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 225.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "van life",
+      "hiking"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2002-05-28_226",
+    "date": "2002-05-28",
+    "year": 2002,
+    "time": "18:32",
+    "country": "USA",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 226.",
+    "topics": [
+      "reflection",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Phil"
+    ],
+    "tags": [
+      "relaxation",
+      "routine"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-07-11_227",
+    "date": "2021-07-11",
+    "year": 2021,
+    "time": "06:42",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 227.",
+    "topics": [
+      "relationships",
+      "work"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "discovery",
+      "hiking",
+      "van life"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-09-18_228",
+    "date": "2012-09-18",
+    "year": 2012,
+    "time": "15:33",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 228.",
+    "topics": [
+      "travel",
+      "food"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jess"
+    ],
+    "tags": [
+      "growth",
+      "van life",
+      "routine"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-03-20_229",
+    "date": "2019-03-20",
+    "year": 2019,
+    "time": "12:45",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 229.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress",
+      "gratitude"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-08-09_230",
+    "date": "2012-08-09",
+    "year": 2012,
+    "time": "13:40",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 230.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Elysia"
+    ],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-05-24_231",
+    "date": "2006-05-24",
+    "year": 2006,
+    "time": "22:02",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 231.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "growth",
+      "relaxation",
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-06-25_232",
+    "date": "2019-06-25",
+    "year": 2019,
+    "time": "09:12",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 232.",
+    "topics": [
+      "food",
+      "work"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "hiking",
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-11-17_233",
+    "date": "2016-11-17",
+    "year": 2016,
+    "time": "09:07",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 233.",
+    "topics": [
+      "reflection",
+      "study"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Jess"
+    ],
+    "tags": [
+      "van life",
+      "hiking"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-10-17_234",
+    "date": "2016-10-17",
+    "year": 2016,
+    "time": "15:10",
+    "country": "Indonesia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 234.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Phil"
+    ],
+    "tags": [
+      "routine",
+      "hiking",
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-04-30_235",
+    "date": "2022-04-30",
+    "year": 2022,
+    "time": "19:25",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 235.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "gratitude",
+      "growth"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2024-10-09_236",
+    "date": "2024-10-09",
+    "year": 2024,
+    "time": "13:48",
+    "country": "New Zealand",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 236.",
+    "topics": [
+      "weather",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2003-10-15_237",
+    "date": "2003-10-15",
+    "year": 2003,
+    "time": "12:06",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 237.",
+    "topics": [
+      "events",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "gratitude",
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-02-26_238",
+    "date": "2014-02-26",
+    "year": 2014,
+    "time": "07:36",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 238.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "gratitude"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-05-30_239",
+    "date": "2022-05-30",
+    "year": 2022,
+    "time": "07:06",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 239.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "challenge",
+      "discovery",
+      "growth"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-11-20_240",
+    "date": "2008-11-20",
+    "year": 2008,
+    "time": "14:11",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 240.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Mum"
+    ],
+    "tags": [
+      "challenge",
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-04-22_241",
+    "date": "2009-04-22",
+    "year": 2009,
+    "time": "14:36",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 241.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Mum"
+    ],
+    "tags": [
+      "Pilates",
+      "yoga",
+      "relaxation"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-07-21_242",
+    "date": "2014-07-21",
+    "year": 2014,
+    "time": "16:22",
+    "country": "Fiji",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 242.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2007-05-06_243",
+    "date": "2007-05-06",
+    "year": 2007,
+    "time": "16:04",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 243.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jenny"
+    ],
+    "tags": [
+      "stress",
+      "discovery"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.9,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-03-13_244",
+    "date": "2019-03-13",
+    "year": 2019,
+    "time": "21:02",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 244.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "routine",
+      "van life"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-11-03_245",
+    "date": "2021-11-03",
+    "year": 2021,
+    "time": "11:59",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 245.",
+    "topics": [
+      "culture",
+      "food"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "relaxation",
+      "stress",
+      "discovery"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-04-03_246",
+    "date": "2011-04-03",
+    "year": 2011,
+    "time": "12:01",
+    "country": "India",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 246.",
+    "topics": [
+      "weather",
+      "events"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "stress"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-04-05_247",
+    "date": "2006-04-05",
+    "year": 2006,
+    "time": "18:44",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 247.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-05-31_248",
+    "date": "2019-05-31",
+    "year": 2019,
+    "time": "09:28",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 248.",
+    "topics": [
+      "study",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "stress",
+      "routine",
+      "discovery"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-07-25_249",
+    "date": "2014-07-25",
+    "year": 2014,
+    "time": "15:24",
+    "country": "Canada",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 249.",
+    "topics": [
+      "food",
+      "daily routine"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-06-24_250",
+    "date": "2011-06-24",
+    "year": 2011,
+    "time": "14:45",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 250.",
+    "topics": [
+      "food",
+      "travel"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Mum"
+    ],
+    "tags": [
+      "growth",
+      "gratitude"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-12-04_251",
+    "date": "2014-12-04",
+    "year": 2014,
+    "time": "10:36",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 251.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-10-25_252",
+    "date": "2008-10-25",
+    "year": 2008,
+    "time": "16:53",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 252.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates",
+      "gratitude",
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-11-05_253",
+    "date": "2006-11-05",
+    "year": 2006,
+    "time": "07:12",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 253.",
+    "topics": [
+      "reflection",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Byron",
+      "Phil"
+    ],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-01-19_254",
+    "date": "2017-01-19",
+    "year": 2017,
+    "time": "19:36",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 254.",
+    "topics": [
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "yoga",
+      "stress",
+      "discovery"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-05-13_255",
+    "date": "2016-05-13",
+    "year": 2016,
+    "time": "13:18",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 255.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-08-20_256",
+    "date": "2022-08-20",
+    "year": 2022,
+    "time": "19:42",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 256.",
+    "topics": [
+      "reflection",
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2011-02-04_257",
+    "date": "2011-02-04",
+    "year": 2011,
+    "time": "20:13",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 257.",
+    "topics": [
+      "daily routine",
+      "events"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Mum"
+    ],
+    "tags": [
+      "learning",
+      "yoga"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-04-16_258",
+    "date": "2015-04-16",
+    "year": 2015,
+    "time": "09:20",
+    "country": "New Zealand",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 258.",
+    "topics": [
+      "events",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Phil"
+    ],
+    "tags": [
+      "growth",
+      "learning",
+      "stress"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-06-28_259",
+    "date": "2013-06-28",
+    "year": 2013,
+    "time": "13:00",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 259.",
+    "topics": [
+      "reflection",
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery",
+      "relaxation",
+      "routine"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-11-06_260",
+    "date": "2014-11-06",
+    "year": 2014,
+    "time": "11:03",
+    "country": "Indonesia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 260.",
+    "topics": [
+      "travel",
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "growth"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-03-08_261",
+    "date": "2020-03-08",
+    "year": 2020,
+    "time": "22:13",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 261.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "gratitude",
+      "hiking"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-04-12_262",
+    "date": "2014-04-12",
+    "year": 2014,
+    "time": "17:35",
+    "country": "New Zealand",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 262.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "van life"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-02-07_263",
+    "date": "2005-02-07",
+    "year": 2005,
+    "time": "16:41",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 263.",
+    "topics": [
+      "food",
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "yoga",
+      "relaxation"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-10-25_264",
+    "date": "2010-10-25",
+    "year": 2010,
+    "time": "13:47",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 264.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Phil"
+    ],
+    "tags": [
+      "challenge",
+      "Pilates",
+      "hiking"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-10-15_265",
+    "date": "2022-10-15",
+    "year": 2022,
+    "time": "20:16",
+    "country": "Papua New Guinea",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 265.",
+    "topics": [
+      "food",
+      "weather"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Elysia"
+    ],
+    "tags": [
+      "discovery"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-02-19_266",
+    "date": "2008-02-19",
+    "year": 2008,
+    "time": "19:39",
+    "country": "New Zealand",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 266.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "Pilates",
+      "van life",
+      "hiking"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-06-09_267",
+    "date": "2009-06-09",
+    "year": 2009,
+    "time": "13:20",
+    "country": "New Zealand",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 267.",
+    "topics": [
+      "work",
+      "study"
+    ],
+    "people_mentioned": [
+      "Elysia",
+      "Byron"
+    ],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-05-30_268",
+    "date": "2019-05-30",
+    "year": 2019,
+    "time": "21:45",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 268.",
+    "topics": [
+      "food",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Mum"
+    ],
+    "tags": [
+      "relaxation"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-08-13_269",
+    "date": "2004-08-13",
+    "year": 2004,
+    "time": "09:42",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 269.",
+    "topics": [
+      "events",
+      "culture"
+    ],
+    "people_mentioned": [
+      "Jess",
+      "Mum"
+    ],
+    "tags": [
+      "stress",
+      "hiking",
+      "growth"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-07-11_270",
+    "date": "2016-07-11",
+    "year": 2016,
+    "time": "17:38",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 270.",
+    "topics": [
+      "daily routine",
+      "study"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Byron"
+    ],
+    "tags": [
+      "van life",
+      "routine",
+      "gratitude"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2003-09-01_271",
+    "date": "2003-09-01",
+    "year": 2003,
+    "time": "13:15",
+    "country": "India",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 271.",
+    "topics": [
+      "daily routine",
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "relaxation",
+      "learning"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2020-01-20_272",
+    "date": "2020-01-20",
+    "year": 2020,
+    "time": "06:00",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 272.",
+    "topics": [
+      "daily routine"
+    ],
+    "people_mentioned": [
+      "Jess"
+    ],
+    "tags": [
+      "van life",
+      "yoga"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-11-06_273",
+    "date": "2015-11-06",
+    "year": 2015,
+    "time": "20:30",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 273.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "hiking",
+      "gratitude"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-09-01_274",
+    "date": "2012-09-01",
+    "year": 2012,
+    "time": "08:01",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 274.",
+    "topics": [
+      "travel"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery",
+      "learning"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-09-04_275",
+    "date": "2006-09-04",
+    "year": 2006,
+    "time": "08:46",
+    "country": "Australia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 275.",
+    "topics": [
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Jenny"
+    ],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-09-29_276",
+    "date": "2006-09-29",
+    "year": 2006,
+    "time": "21:36",
+    "country": "Australia",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 276.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Jenny"
+    ],
+    "tags": [
+      "van life",
+      "learning"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2016-04-19_277",
+    "date": "2016-04-19",
+    "year": 2016,
+    "time": "07:40",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 277.",
+    "topics": [
+      "relationships",
+      "events"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Byron"
+    ],
+    "tags": [
+      "routine",
+      "growth"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-12-28_278",
+    "date": "2008-12-28",
+    "year": 2008,
+    "time": "19:07",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 278.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jenny"
+    ],
+    "tags": [
+      "van life",
+      "discovery"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2014-12-02_279",
+    "date": "2014-12-02",
+    "year": 2014,
+    "time": "20:33",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 279.",
+    "topics": [
+      "study",
+      "work"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jess"
+    ],
+    "tags": [
+      "relaxation",
+      "Pilates",
+      "routine"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2015-08-11_280",
+    "date": "2015-08-11",
+    "year": 2015,
+    "time": "17:48",
+    "country": "Papua New Guinea",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 280.",
+    "topics": [
+      "events",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "learning",
+      "gratitude"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-01-28_281",
+    "date": "2012-01-28",
+    "year": 2012,
+    "time": "08:14",
+    "country": "Papua New Guinea",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 281.",
+    "topics": [
+      "reflection"
+    ],
+    "people_mentioned": [
+      "Jenny",
+      "Mum"
+    ],
+    "tags": [
+      "stress",
+      "yoga",
+      "van life"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-03-07_282",
+    "date": "2009-03-07",
+    "year": 2009,
+    "time": "18:41",
+    "country": "Canada",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 282.",
+    "topics": [
+      "culture"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Warren"
+    ],
+    "tags": [
+      "gratitude",
+      "Pilates",
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-08-08_283",
+    "date": "2017-08-08",
+    "year": 2017,
+    "time": "16:53",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 283.",
+    "topics": [
+      "weather",
+      "daily routine"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "relaxation",
+      "challenge"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2013-05-06_284",
+    "date": "2013-05-06",
+    "year": 2013,
+    "time": "09:20",
+    "country": "USA",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 284.",
+    "topics": [
+      "work"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "yoga"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2009-09-05_285",
+    "date": "2009-09-05",
+    "year": 2009,
+    "time": "12:39",
+    "country": "Papua New Guinea",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 285.",
+    "topics": [
+      "relationships",
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-03-10_286",
+    "date": "2022-03-10",
+    "year": 2022,
+    "time": "15:26",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 286.",
+    "topics": [
+      "weather",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Trevor",
+      "Byron"
+    ],
+    "tags": [
+      "gratitude",
+      "stress"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2008-04-18_287",
+    "date": "2008-04-18",
+    "year": 2008,
+    "time": "06:20",
+    "country": "Fiji",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 287.",
+    "topics": [
+      "travel",
+      "reflection"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-04-20_288",
+    "date": "2018-04-20",
+    "year": 2018,
+    "time": "15:18",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 288.",
+    "topics": [
+      "reflection",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Mum"
+    ],
+    "tags": [
+      "gratitude"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2022-08-26_289",
+    "date": "2022-08-26",
+    "year": 2022,
+    "time": "10:38",
+    "country": "India",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 289.",
+    "topics": [
+      "travel",
+      "events"
+    ],
+    "people_mentioned": [
+      "Warren"
+    ],
+    "tags": [
+      "hiking",
+      "challenge",
+      "growth"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.96,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-12-23_290",
+    "date": "2005-12-23",
+    "year": 2005,
+    "time": "07:42",
+    "country": "Canada",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 290.",
+    "topics": [
+      "events"
+    ],
+    "people_mentioned": [
+      "Byron"
+    ],
+    "tags": [
+      "hiking",
+      "van life",
+      "gratitude"
+    ],
+    "milestone_event": "Funeral",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2018-05-28_291",
+    "date": "2018-05-28",
+    "year": 2018,
+    "time": "15:21",
+    "country": "Fiji",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 291.",
+    "topics": [
+      "travel",
+      "work"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "challenge",
+      "learning"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.92,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2005-10-14_292",
+    "date": "2005-10-14",
+    "year": 2005,
+    "time": "07:20",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 292.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.99,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-05-01_293",
+    "date": "2006-05-01",
+    "year": 2006,
+    "time": "15:51",
+    "country": "Indonesia",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 293.",
+    "topics": [
+      "daily routine",
+      "relationships"
+    ],
+    "people_mentioned": [
+      "Warren",
+      "Jess"
+    ],
+    "tags": [
+      "hiking"
+    ],
+    "milestone_event": "Wedding",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.95,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2017-09-21_294",
+    "date": "2017-09-21",
+    "year": 2017,
+    "time": "18:05",
+    "country": "India",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 294.",
+    "topics": [
+      "study",
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "discovery",
+      "hiking",
+      "stress"
+    ],
+    "milestone_event": "Engagement",
+    "stage_of_life": "University",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2010-11-22_295",
+    "date": "2010-11-22",
+    "year": 2010,
+    "time": "12:00",
+    "country": "India",
+    "place": "home",
+    "entry_text": "Sample diary text entry number 295.",
+    "topics": [
+      "relationships",
+      "food"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "Pilates",
+      "van life",
+      "hiking"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.93,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2006-02-08_296",
+    "date": "2006-02-08",
+    "year": 2006,
+    "time": "07:31",
+    "country": "Australia",
+    "place": "travel",
+    "entry_text": "Sample diary text entry number 296.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Mum",
+      "Jess"
+    ],
+    "tags": [
+      "gratitude",
+      "discovery"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.94,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2012-04-17_297",
+    "date": "2012-04-17",
+    "year": 2012,
+    "time": "20:53",
+    "country": "Australia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 297.",
+    "topics": [
+      "relationships",
+      "daily routine"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "stress",
+      "van life"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "University",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2021-08-01_298",
+    "date": "2021-08-01",
+    "year": 2021,
+    "time": "13:33",
+    "country": "Indonesia",
+    "place": "work",
+    "entry_text": "Sample diary text entry number 298.",
+    "topics": [
+      "study"
+    ],
+    "people_mentioned": [
+      "Phil",
+      "Jenny"
+    ],
+    "tags": [
+      "learning"
+    ],
+    "milestone_event": null,
+    "stage_of_life": "Professional",
+    "ocr_confidence": 0.98,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2004-09-15_299",
+    "date": "2004-09-15",
+    "year": 2004,
+    "time": "16:56",
+    "country": "Papua New Guinea",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 299.",
+    "topics": [
+      "events",
+      "weather"
+    ],
+    "people_mentioned": [],
+    "tags": [
+      "routine"
+    ],
+    "milestone_event": "Graduation",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.97,
+    "sensitivity": "personal",
+    "audit_log": []
+  },
+  {
+    "entry_id": "2019-01-27_300",
+    "date": "2019-01-27",
+    "year": 2019,
+    "time": "19:34",
+    "country": "USA",
+    "place": "university",
+    "entry_text": "Sample diary text entry number 300.",
+    "topics": [
+      "weather"
+    ],
+    "people_mentioned": [
+      "Trevor"
+    ],
+    "tags": [
+      "stress",
+      "Pilates"
+    ],
+    "milestone_event": "Birthday",
+    "stage_of_life": "High school",
+    "ocr_confidence": 0.91,
+    "sensitivity": "personal",
+    "audit_log": []
+  }
+]
