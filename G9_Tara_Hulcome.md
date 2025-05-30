@@ -10,7 +10,7 @@ This test plan for ‘The Diary Project’ includes several basic functional and
 
 Below are two categories of tests to examine whether the ‘The Diary Project’ API behaves correctly with valid and invalid inputs.
 
-### **2.1. Test 1: Endpoint accessibility ** 
+### **2.1. Endpoint accessibility** 
 
 The goal of this category of tests is to check the functionality of the endpoint when returning all diary entries. Once Flask is running and the local server is exposed using nGrok, copy the public HTTPS link shown in the terminal. Append */diary* to the end of the URL. It will be a variation of the following address: https://abc123.ngrok-free.app/diary. 
 
@@ -18,7 +18,7 @@ The goal of this category of tests is to check the functionality of the endpoint
 •	Test that the GET request returns at least 200 entries.
 •	Test whether the user can accomplish actions that are not allowed, such as POST or DELETE. This request should alert the user by returning an error message such as *405 Method Not Allowed*.
 
-### **2.2. Test 2: Endpoint Filtering**
+### **2.2. Endpoint Filtering**
 
 The goal of this category of tests is to check the filtering functionality. Append */filter* to the end of the URL: https://abc123.ngrok-free.app/filter. 
 
@@ -32,11 +32,11 @@ The goal of this category of tests is to check the filtering functionality. Appe
 
 As the API will only be used by a small number of users, it is not essential to conduct rigorous stress testing. However, as the dataset grows, it is important to test regular response time and filter efficiency tests. These tests are outlined below.
 
-### **3.1. Test 4: Response Time** 
+### **3.1. Response Time** 
 
 •	Test that the GET request returns data within an acceptable time threshold. For the current size of ‘The Diary Project’ file, the definition of ‘acceptable’ is under 1 second for 100+ entries.
 
-### **3.2. Test 5: Filter Efficiency** 
+### **3.2. Filter Efficiency** 
 
 •	Test whether the user can use a realistic combination of multiple filters, and that this filtering logic does not add a noticeable delay. If there is a prolonged delay (i.e., more than 20 seconds), the user should be alerted by a message such as *Request Timeout*.
 
