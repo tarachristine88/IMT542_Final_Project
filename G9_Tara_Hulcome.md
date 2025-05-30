@@ -28,7 +28,7 @@ The goal of this category of tests is to check the filtering functionality. Appe
 •	Test using abnormal inputs in open-text fields to ensure errors are handled smoothly (i.e, OCR_confidence = ‘hello’, date = 1902/13/13). 
 •	Test that filters do not silently fail (i.e., if no entries match the user’s GET request, return a helpful message like ‘No entries found.’). This alerts the user that they should modify their query.
 
-## **3. Performance Tests **
+## **3. Performance Tests**
 
 As the API will only be used by a small number of users, it is not essential to conduct rigorous stress testing. However, as the dataset grows, it is important to test regular response time and filter efficiency tests. These tests are outlined below.
 
@@ -40,6 +40,6 @@ As the API will only be used by a small number of users, it is not essential to 
 
 •	Test whether the user can use a realistic combination of multiple filters, and that this filtering logic does not add a noticeable delay. If there is a prolonged delay (i.e., more than 20 seconds), the user should be alerted by a message such as *Request Timeout*.
 
-## **4. Automation **
+## **4. Automation**
 
 In the pilot phase of ‘The Diary Project’, these functional and performance tests will be conducted manually. In subsequent phases, these tests may be automated (i.e., using the Python testing framework (pytest), or other API testing tools such as Postman or JMeter).
