@@ -1,7 +1,7 @@
 {
-    "idea_rank": "1",\
-    "idea_name": "Convert handwritten diaries to machine-readable format.",\
+    "idea_rank": "1",
+    "idea_name": "Convert handwritten diaries to machine-readable format.",
     "idea_summary": "I aim to improve the portability of my personal handwritten diaries, by converting a series of previously-scanned JPEG files into a more structured, machine-readable JSON format. The goal is to promote enhanced accessibility and findability, enabling me (the user) to interact with - and generate valuable insights from - my own data.",\
     "information_story": "Many people have accumulated years\'92 worth of personal information in hard-copy, handwritten formats. This information is often stored in old shoe boxes (or other poorly organised information systems), meaning that it lacks security, accessibility, and findability. The process of making this type of information more portable involves multiple steps. First, the information should be converted to a digital format (i.e., by scanning images of the hard copy documents into a JPEG or PDF format, and saving them to a cloud-based folder). Then, Optical Character Recognition (OCR) tools and Python can be used to extract text from the JPEG images, and convert it to a standardized JSON structure that is both human-readable and machine-readable. Once the information has been converted to JSON format, it should be audited for quality control. Then, by designing a simple Application Programming Interface (API) architecture and applying topic filters, the information can be analyzed and manipulated. This, in turn, will enable users to interact with their own personal information on a far deeper level.",\
-    "possible_information_structure": "Convert handwritten information to JPEG or PDF structure, then convert to JSON structure."\
+    "possible_information_structure": "Convert handwritten information to JPEG or PDF structure, then convert to JSON structure."
 }
