@@ -68,9 +68,9 @@ Information Format: MD
 
 **3.1. Project_Artifact_A_dummy_diary_entries_list.json**:  
 
-**Overview**: This file contains the 300 dummy diary entries, structured in line with my new taxonomy and generated using artificial intelligence (AI) tools (Google Gemini Pro).
+Overview: This file contains the 300 dummy diary entries, structured in line with my new taxonomy and generated using artificial intelligence (AI) tools (Google Gemini Pro).
 
-**Information Format**: JSON
+Information Format: JSON
 
 **3.2. Project_Artifact_B_Python_code.py**: 
 
