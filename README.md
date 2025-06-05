@@ -68,7 +68,7 @@ Information Format: MD
 
 **3.1. Project_Artifact_A_dummy_diary_entries_list.json**:  
 
-Overview: This file contains the 300 dummy diary entries, structured in line with my new taxonomy and generated using artificial intelligence (AI) tools (Google Gemini Pro).
+Overview: This file contains the 300 dummy diary entries, structured in line with my new taxonomy and generated with the assistance of artificial intelligence (AI) tools (Google Gemini Pro).
 
 Information Format: JSON
 
@@ -80,7 +80,7 @@ Information Format: Python
 
 **3.3. Project_Artifact_C_User_Interface_Code**:
 
-Overview: This file contains the HTML code used to build my front-end interface that allows users to filter entries via form fields (e.g., country, date, OCR confidence) and visualize the results.
+Overview: This file contains the HTML code used to build my front-end interface that allows users to filter entries via form fields (e.g., country, date, OCR confidence) and visualize the results. This code was generated with the assistance of Google Gemini Pro.
 
 Information Format: HTML
 
