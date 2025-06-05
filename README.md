@@ -78,7 +78,7 @@ Overview: This file contains the Python code used to build my Flask-based API, g
 
 Format: Python
 
-**3.3. Project_Artifact_C_User_Interface_Code**
+**3.3. Project_Artifact_C_User_Interface_Code.html**
 
 Overview: This file contains the HTML code used to build my front-end interface that allows users to filter entries via form fields (e.g., country, date, OCR confidence) and visualize the results. This code was generated with the assistance of Google Gemini Pro.
 
