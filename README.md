@@ -18,51 +18,51 @@ Information Format: JSON
 
 **2.2. G4_Initial_Information_Story**
 
-**Overview**: This file provides a visual summary of ‘The Diary Project’ information story, including wireframes, access considerations, and information architecture.
+Overview: This file provides a visual summary of ‘The Diary Project’ information story, including wireframes, access considerations, and information architecture.
 
-**Last Updated**: 22 April 2025
+Last Updated: 22 April 2025
 
-**Information Format**: PDF
+Information Format: PDF
 
 **2.3. G5_FAIR_Assessment**
 
-**Overview**: This file describes how my new information structure intersects with the FAIR (Findable, Accessible, Interoperable, Reusable) model. 
+Overview: This file describes how my new information structure intersects with the FAIR (Findable, Accessible, Interoperable, Reusable) model. 
 
-**Last Updated**: 28 April 2025
+Last Updated: 28 April 2025
 
-**Information Format**: TXT
+Information Format: TXT
 
 **2.4. G6_Availability_Limitations_Ethics_Societal_Impact_Assessment**
 
-**Overview**: This file contains an Availability, Limitations, Ethics and Societal Impact analysis to accompany my new information product.
+Overview: This file contains an Availability, Limitations, Ethics and Societal Impact analysis to accompany my new information product.
 
-**Last Updated**: 7 May 2025
+Last Updated: 7 May 2025
 
-**Information Format**: HTML
+Information Format: HTML
 
 **2.5. G7_Improved_Information_Structure_Format**
 
-**Overview**: This file contains a sample of the existing information structure as well as a sample of the new proposed structure I’ve developed. It also describes how my new information structure will promote quality maintenance and information security.
+Overview: This file contains a sample of the existing information structure as well as a sample of the new proposed structure I’ve developed. It also describes how my new information structure will promote quality maintenance and information security.
 
-**Last Updated**: 14 May 2025
+Last Updated: 14 May 2025
 
-**Information Format**: PDF
+Information Format: PDF
 
 **2.6. G8_Improved_Access_Methodoloy**
 
-**Overview**: This file describes how to access my new information structure, including specific instructions.
+Overview: This file describes how to access my new information structure, including specific instructions.
 
-**Last Updated**: 21 May 2025
+Last Updated: 21 May 2025
 
-**Information Format**: MD
+Information Format: MD
 
 **2.7. G9_Test_Plan**
 
-**Overview**: This file contains a test plan for ‘The Diary Project’, including several basic functional and performance tests.
+Overview: This file contains a test plan for ‘The Diary Project’, including several basic functional and performance tests.
 
-**Last Updated**: 2025
+Last Updated: 30 May 2025
 
-**Information Format**: MD
+Information Format: MD
 
 ## **3. Key Project Artifacts**
 
