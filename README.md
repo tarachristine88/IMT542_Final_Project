@@ -1,6 +1,6 @@
 # **IMT 542: Final Project: ‘The Diary Project’**
 
-## **1. Description**
+## **1. Overview**
 
 This document summarizes the key files contained in this GitHub repository, all of which relate to my IMT 542 Final Project. I (Tara Hulcome) am presenting ‘The Diary Project’, which explores the end-to-end process for creating a new information product that transforms my personal diary collection into a machine-readable structure.
 
