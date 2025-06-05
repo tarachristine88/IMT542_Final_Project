@@ -1,0 +1,81 @@
+G5: Measure capabilities of existing project structures using FAIR
+
+IMT 542 A: Tara Hulcome
+
+Project summary: Convert handwritten personal diaries into structured, machine-readable format.
+
+How project intersects with FAIR model: My project aims to make the information contained in my personal diaries more findable by assigning unique identifiers to each diary entry (after the scanned JPEG images have been converted into a machine-readable JSON format) (F1), and by applying rich metadata based on key topics (i.e., time, theme, place, event) (F2). My project will promote accessibility by developing a simple API that allows the user (i.e., myself) to interact with the metadata (A1.1) through enhanced search functionality (F4). However, as the diaries contain sensitive personal information, strict access controls will be implemented to protect the data from unauthorized access / use (A1.2). Converting the extracted text from JPEG to standard JSON structure will promote enhanced interoperability (I1). Finally, the project aims to promote reusability by adding rich metadata that describes the context in which my diary entries were created (i.e., stage of life, country of residence, type of relationships) (R1).
+
++++
+
+Detailed FAIR model analysis:
+
++++
+
+Findable
+
+F1: (Meta) data are assigned a globally unique and persistent identifier
+* Project intersection: I plan to assign each daily diary entry a unique identifier (i.e., by assigning a Digital Object Identifier (DOI) to ensure each entry can be easily referenced and found).
+
+F2: Data are described with rich metadata
+* Project intersection: After extracting the data from my diaries, I plan to enrich it by adding metadata / tags based on four key topics (time, theme, place, event) and a range of sub-topics.
+
+F3: Metadata clearly and explicitly include the identifier of the data they describe
+* n/a
+
+F4: (Meta)data are registered or indexed in a searchable resource
+* Project intersection: I plan to store the structured diary entries in one consolidated database with a search feature that allows the user to interact with the metadata (I.e., to query the entries by date, event or topic) 
+
++++
+
+Accessible
+
+A1: (Meta)data are retrievable by their identifier using a standardised communication protocol
+* n/a
+
+
+A1.1: The protocol is open, free and universally implementable
+* Project intersection: I plan to develop a simple API that allows the user (i.e., myself) to freely and independently interact with the diary data. 
+
+A1.2: The protocol allows for an authentication and authorization procedure where necessary
+* Project intersection: As the diaries contain highly personal and sensitive information, I plan to implement strict access controls to protect the data from unauthorized use (while still permitting my own consistent access).
+
+A2: Metadata should be accessible even when the data is no longer available
+* Project intersection: Principle A2 is not applicable to my project, as I want to retain my right to delete the metadata at any time and for any reason.
+
+
++++
+
+Interoperable
+
+I1: (Meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation
+* Project intersection: After using Optical Character Recognition (OCR) tools and Python to extract the text from the JPEG images, I plan to convert the text to a standardized JSON structure to promote interoperability.
+
+I2: (Meta)data use vocabularies that follow the FAIR principles
+* n/a
+
+I3: (Meta)data include qualified references to other (meta)data
+* n/a
+
+
++++
+
+Reusable
+
+R1: (Meta)data are richly described with a plurality of accurate and relevant attributes
+* Project intersection: As GO FAIR (n.d.) notes, Principle R1 is related to F2 (see above) but ‘R1 focuses on the ability of a user (machine or human) to decide if the data is actually USEFUL in a particular context’. I aim to promote R1 by adding rich metadata that describes the context in which my diary entries were created (i.e., stage of life, country of residence, type of relationships).
+
+R1.1: (Meta)data are released with a clear and accessible data usage license
+* Project intersection: I plan to restrict use (so only I can access and use the data). Therefore, I will make it clear that I do not permit future use by others, for any purpose.
+
+R1.2: (Meta)data are associated with detailed provenance
+* Project intersection:
+
+R1.3: (Meta)data meet domain-relevant community standards
+* Project intersection:
+
++++
+
+Reference
+
+GO FAIR. (n.d.). FAIR Principles. https://www.go-fair.org/fair-principles/
