@@ -139,17 +139,17 @@ This section provides updated instructions (as at 5 June 2025) for how to access
 
 ## **6. Video Tutorials**
 
-These links are to video tutorials demonstrating how to access the endpoint through the API. 
+These three URL addresses link to video tutorials demonstrating how to access the endpoint through the API, as well as my vision for a more sophisticated front-end user interface.
 
 **Video Tutorial 1**
 
-This tutorial shows the first iteration of my API.
+This tutorial shows how to access the endpoint through the API (based on my first iteration).
 
 https://drive.google.com/file/d/1IUZbwNhP5qxJoJdUMVOUZTbvMxPJDPpN/view?usp=drive_link
 
 **Video Tutorial 2**
 
-This tutorial shows the second (and final) iteration of my API, including the front-end user interface.
+This tutorial shows how to access the endpoint through the API (based on my second / final iteration).
 
 https://drive.google.com/file/d/1atG-FTf1D-8lUEU5Y6pxdSNwruLZyQa1/view?usp=drive_link
 
@@ -161,4 +161,4 @@ https://drive.google.com/file/d/1eOnymmoOeDxR3uE3jtpK3FJyqFwFfOqY/view?usp=shari
 
 ## **7. Cloud Hosting**
 
-Note that there is a ‘.github/workflows’ folder, which relates to my (unsuccessful) attempt to add an Azure Web App (cloud service provider) to host my new information structure. I aim to trouble-shoot and complete this task after project submission.
+Note that there is a ‘.github/workflows’ folder, which relates to my (unsuccessful) attempt to add an Azure Web App (cloud service provider) to host my new information structure. I aim to trouble-shoot and complete this task after project submission
