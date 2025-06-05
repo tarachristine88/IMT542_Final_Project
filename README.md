@@ -155,7 +155,7 @@ https://drive.google.com/file/d/1atG-FTf1D-8lUEU5Y6pxdSNwruLZyQa1/view?usp=drive
 
 **Video Tutorial 3**
 
-This tutorial shows a functional prototype with a more sophisticated front-end user interface. It was created with the assistance of Lovable AI Coding.
+This video introduces a functional prototype with a more sophisticated front-end user interface. It was created with the assistance of Lovable AI Coding.
 
 https://drive.google.com/file/d/1eOnymmoOeDxR3uE3jtpK3FJyqFwFfOqY/view?usp=sharing 
 
