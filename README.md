@@ -121,14 +121,9 @@ This section provides updated instructions (as at 5 June 2025) for how to access
 
 **Step 4: Filter and Experiment with the Data**
 
--	Use the dropdowns and input fields to:
-o	Search for entries written in a specific country
-o	Narrow down by date (on or after a given date)
-o	View entries with high OCR confidence
-o	Explore entries mentioning specific people
+-	Use the dropdowns and input fields to: (a) Search for entries written in a specific country; (b) Narrow down by date (on or after a given date); (c) View entries with high OCR confidence; or (d) Explore entries mentioning specific people.
 
--	Each result includes key fields like:
-o	country, entry text, place, and date.
+-	Each result includes key fields such as country, entry text, place, and date.
 
 **Step 5: Refresh the data for updates**
 
