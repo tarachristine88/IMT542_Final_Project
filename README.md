@@ -6,7 +6,7 @@ This document summarizes the key files contained in this GitHub repository, all 
 
 ## **2. Key Working Documents**
 
-The files containing titles that begin with ‘G#’ are working files that provide evidence of the project development and iteration process over Spring 2025 quarter. These include:
+The files containing titles that begin with ‘G#’ are working files that provide evidence of the project development and iteration process over the Spring 2025 quarter. These include:
 
 **2.1. G3_Ideating_Information_Story**
 
