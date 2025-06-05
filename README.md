@@ -10,6 +10,7 @@ The files containing titles that begin with ‘G#’ are working files that prov
 
 **2.1. G3_Ideating_Information_Story**
 
+[Link text](2.1_G3_Ideating_Information_Story.json)
 Overview: This file provides a brief overview of my early ideation about ‘The Diary Project’.
 
 Last Updated: 15 April 2025
