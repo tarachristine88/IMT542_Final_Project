@@ -137,6 +137,28 @@ This section provides updated instructions (as at 5 June 2025) for how to access
 
 -	Enjoy exploring Tara’s Secret Diary Entries (…but ssshhhh, don’t tell!)
 
-## **6. Cloud Hosting**
+## **6. Video Tutorials**
+
+These links are to video tutorials demonstrating how to access the endpoint through the API. 
+
+**Video Tutorial 1**
+
+This tutorial shows the first iteration of my API.
+
+https://drive.google.com/file/d/1IUZbwNhP5qxJoJdUMVOUZTbvMxPJDPpN/view?usp=drive_link
+
+**Video Tutorial 2**
+
+This tutorial shows the second (and final) iteration of my API, including the front-end user interface.
+
+https://drive.google.com/file/d/1atG-FTf1D-8lUEU5Y6pxdSNwruLZyQa1/view?usp=drive_link
+
+**Video Tutorial 3**
+
+This tutorial shows a functional prototype with a more sophisticated front-end user interface. It was created with the assistance of Lovable AI Coding.
+
+https://drive.google.com/file/d/1eOnymmoOeDxR3uE3jtpK3FJyqFwFfOqY/view?usp=sharing 
+
+## **7. Cloud Hosting**
 
 Note that there is a ‘.github/workflows’ folder, which relates to my (unsuccessful) attempt to add an Azure Web App (cloud service provider) to host my new information structure. I aim to trouble-shoot and complete this task after project submission.
