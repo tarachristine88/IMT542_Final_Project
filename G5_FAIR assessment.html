@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>G5: Tara Hulcome</title>
+</head>
+
+<body>
+  <h1>IMT 542: Assignment G5: Communicate how existing information is restructured to make it more portable</h1>
+
+<h2>Student: Tara Hulcome</h2>
+
+<h2>Project summary: Convert handwritten diaries to machine-readable format ('The Diary Project').</h2>
+
+<p><u>G5 scope</u>
+
+<br> <br> 
+
+In Sections 1-4, I will analyze 'The Diary Project' in terms of four key considerations: (1) Availability; (2) Limitations; (3) Ethics; and (4) Societal Impact. 
+
+<br> <br> 
+
+In Section 5, I will explain how 'The Diary Project' promotes information portability, as assessed through the lens of the core FAIR principles: (1) Findability; (2) Accessibility; (3) Interoperability; and (4) Reusability. (GO Fair, n.d.). 
+
+<br> <br> 
+
+<I>Note that, while 'The Diary Project' uses my own personal data set in the pilot phase, I will approach this analysis as if I ('the developer') am providing the service to an external client. </i> </p>
+
+<h3>1. Availability</h3>
+
+  <p>'The Diary Project' will leverage Optical Character Recognition (OCR) tools and Python code to extract text from the client's personal diaries, which have been scanned into JPEG format. This text will be converted to a structured, searchable, machine-readable JSON format. The client will be able to interact with this digitized data through a simple Application Programming Interface (API), promoting enhanced accessibility and availability.
+
+<br><br>
+
+However, as the data contains highly-sensitive Personally Identifiable Information (PII) owned by the client, strict safeguards will be implemented that impact its broader availability. Due to the high risks posed by unrestricted open access, the developer has determined that the data will not be made publicly available. Non-authenticated users will not be permitted to access, download or disseminate the data - either in its original format or in aggregate.
+
+<br>
+
+</p>
+
+<p> Specific data access controls will be defined by the client, with the ability to grant access by time, audience, or context. For example, the client may choose to authorize access for select family members in the event of their death. The developer will manage API access permissions for authorized users, in consultation with the client. 
+
+</p>
+
+  <h3>2. Limitations</h3>
+
+  <p> The success of 'The Diary Project' depends heavily on the accuracy of OCR tools and Python code in recognizing and extracting text from the handwritten diary entries. The quality of project outputs may be limited by poor handwriting (i.e., faded ink or messy cursive writing), subjective interpretation of diary content, or metadata gaps. For example, the OCR tools may not accurately interpret contextual meaning or emotional tone. As a mitigation measure, the developer will conduct a thorough audit of project outputs to identify and rectify any quality issues, before seeking feedback from the client to validate the content. Manual intervention may be required to address quality issues, involving additional effort from both the developer and the client.
+<br>
+
+</p>
+
+  <h3>3. Ethics</h3>
+
+This section will discuss three key categories of ethics: (1) virtue ethics; (2) consequential ethics; and (3) non-consequential ethics. (Locke & Weber, 2022).
+
+<h4> 3.1 Virtue ethics </h4>
+
+Recognizing that the developer holds a position of trust with the client, ethical responsibility is at the core of 'The Diary Project'. The developer will adopt a user-centred design process that prioritizes confidentiality, dignity, and respect. For example, if the client wishes to omit certain information from the dataset, the developer will demonstrate respect by actioning their request swiftly.
+
+<br>
+
+<h4> 3.2 Consequential ethics </h4>
+
+The developer will take steps to minimize potential harms, while maximizing benefits for the client. For example, to ensure the information tool is secure before deployment, the developer will use 'dummy data' instead of the client's real data during the pilot phase. This aims to minimize risks of PII exposure before the information tool has been fully tested and refined.
+
+<h4> 3.3 Non-consequential ethics </h4>
+
+  <p>The developer has a legal responsibility to ensure data protection measures are integrated throughout the information lifecycle to safeguard PII, in compliance with data privacy and protection standards relevant to the client's location (i.e., GDPR, CCPA). The developer will also be responsible for: (1) Promoting awareness of information security risks and best practices, including password security and multi-factor authentication protocols; and (2) Identifying and managing any security risks that could impact the confidentiality, integrity, and availability of the client's PII assets.
+
+</p>
+
+  <h3>4. Societal Impact</h3>
+  <p>The second phase of the 'The Diary Project' will explore the use of artificial intelligence (AI) tools to conduct sentiment analysis, enabling the client to interact with their diary entries on an even deeper level. However, this has the potential to contribute to entrenching social biases and harmful stereotypes, if the client's data is used to train large language models (LLMs). For example, the author's views of certain people, places or situations could have been influenced by race- or gender-based biases. The developer will brief the client on potential risks of AI use, including how their PII may be used to train LLMs and unintended societal impacts.
+  
+</p>
+
+  <h3>5. FAIR Assessment</h3>
+
+This section explains how 'The Diary Project' promotes information portability, through the lens of the four core FAIR principles: </p>
+
+<ul>
+  <li><b>Findability:</b> The 'Diary Project' will include rich metadata, a consistent taxonomy structure, and globally unique identifiers - enabling the client to more easily discover relevant information. However, findability may be negatively impacted if the OCR tools cannot accurately interpret and transcribe the client's handwriting. </li>
+<br>
+  <li><b>Accessibility:</b> The client will be able to access their data through a highly-secure access protocol that supports authentication and authorization (and restricts access by non-authorized users). Accessibility will depend on the chosen cloud storage solution. </li>
+<br>
+  <li><b>Interoperability:</b> The conversion of data from JPEG to standard JSON format, which is compatible with many other platforms, will promote interoperability. </li>
+<br>
+  <li><b> Reusability:</b> Reuse of the client's diary content will be tightly controlled due to its highly personal, sensitive nature. However, the addition of rich, descriptive metadata will enhance reusability for the client and other trusted users. </li>
+</ul>
+
+  <h3>6. References </h3>
+<ul>
+  <li>
+GO Fair (n.d.). <i> FAIR Principles</i>. <u>https://www.go-fair.org/fair-principles/</u></li>
+<li>Locke, B. & Weber, N. (2022). <i> Ethics of Open Data</i>. arXiv. <u>https://arxiv.org/pdf/2205.10402</u></li>
+
+</ul>
+</body>
+</html>
