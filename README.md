@@ -42,7 +42,7 @@ Information Format: HTML
 
 **2.5. G7_Improved_Information_Structure_Format**
 
-Overview: This file contains a sample of the existing information structure as well as a sample of the new proposed structure I’ve developed. It also describes how my new information structure will promote quality maintenance and information security.
+Overview: This file contains samples of the existing information structure and new proposed structure. It also describes how my new information structure will promote quality maintenance and information security.
 
 Last Updated: 14 May 2025
 
