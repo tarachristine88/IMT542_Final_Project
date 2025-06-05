@@ -14,7 +14,7 @@ Overview: This file provides a brief overview of my early ideation about ‘The 
 
 Last Updated: 15 April 2025
 
-Information Format: JSON
+Format: JSON
 
 **2.2. G4_Initial_Information_Story**
 
@@ -22,7 +22,7 @@ Overview: This file provides a visual summary of ‘The Diary Project’ informa
 
 Last Updated: 22 April 2025
 
-Information Format: PDF
+Format: PDF
 
 **2.3. G5_FAIR_Assessment**
 
@@ -30,7 +30,7 @@ Overview: This file describes how my new information structure intersects with t
 
 Last Updated: 28 April 2025
 
-Information Format: TXT
+Format: TXT
 
 **2.4. G6_Availability_Limitations_Ethics_Societal_Impact_Assessment**
 
@@ -38,7 +38,7 @@ Overview: This file contains an Availability, Limitations, Ethics and Societal I
 
 Last Updated: 7 May 2025
 
-Information Format: HTML
+Format: HTML
 
 **2.5. G7_Improved_Information_Structure_Format**
 
@@ -46,7 +46,7 @@ Overview: This file contains samples of the existing information structure and n
 
 Last Updated: 14 May 2025
 
-Information Format: PDF
+Format: PDF
 
 **2.6. G8_Improved_Access_Methodoloy**
 
@@ -54,7 +54,7 @@ Overview: This file describes how to access the first version of my information 
 
 Last Updated: 21 May 2025
 
-Information Format: MD
+Format: MD
 
 **2.7. G9_Test_Plan**
 
@@ -62,7 +62,7 @@ Overview: This file contains a test plan for ‘The Diary Project’, including 
 
 Last Updated: 30 May 2025
 
-Information Format: MD
+Format: MD
 
 ## **3. Key Project Artifacts**
 
@@ -70,19 +70,19 @@ Information Format: MD
 
 Overview: This file contains the 300 dummy diary entries, structured in line with my new taxonomy and generated with the assistance of artificial intelligence (AI) tools (Google Gemini Pro).
 
-Information Format: JSON
+Format: JSON
 
 **3.2. Project_Artifact_B_Python_code.py**
 
 Overview: This file contains the Python code used to build my Flask-based API, generated with the assistance of Google Gemini Pro.
 
-Information Format: Python
+Format: Python
 
 **3.3. Project_Artifact_C_User_Interface_Code**
 
 Overview: This file contains the HTML code used to build my front-end interface that allows users to filter entries via form fields (e.g., country, date, OCR confidence) and visualize the results. This code was generated with the assistance of Google Gemini Pro.
 
-Information Format: HTML
+Format: HTML
 
 ## **4. Final Presentation Files**
 
@@ -92,7 +92,7 @@ Overview: This file contains the slide deck from my in-class presentation.
 
 Last Updated: 3 June 2025
 
-Information Format: PDF
+Format: PDF
 
 **4.2. FINAL_Presentation_Speaking_Notes**
 
@@ -100,7 +100,7 @@ Overview: This file contains the accompanying speaking notes from my in-class pr
 
 Last Updated: 3 June 2025
 
-Information Format: PDF
+Format: PDF
 
 ## **5. Access Instructions**
 
