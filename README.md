@@ -143,9 +143,7 @@ These three URL addresses link to video tutorials demonstrating how to access th
 
 **Video Tutorial 1**
 
-This tutorial shows how to access the endpoint through the API (based on my first iteration).
-
-https://drive.google.com/file/d/1IUZbwNhP5qxJoJdUMVOUZTbvMxPJDPpN/view?usp=drive_link
+This [tutorial](https://drive.google.com/file/d/1IUZbwNhP5qxJoJdUMVOUZTbvMxPJDPpN/view?usp=drive_link) shows how to access the endpoint through the API (based on my first iteration).
 
 **Video Tutorial 2**
 
