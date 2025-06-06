@@ -127,7 +127,7 @@ This section provides updated instructions (as at 5 June 2025) for how to access
 
 **Step 5: Refresh the data for updates**
 
--	If the underlying JSON file is updated on the server, simply refresh your browser page to see the latest content.
+-	If the underlying JSON file is updated on the server, refresh your browser page to see the latest content.
 
 **Step 6: Understand What You Can and Can’t Do**
 
