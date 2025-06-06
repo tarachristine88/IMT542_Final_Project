@@ -24,7 +24,7 @@ Last Updated: 22 April 2025
 
 Format: PDF
 
-**2.3. G5_FAIR_Assessment**
+**2.3. [G5_FAIR_Assessment](2.3_G5_FAIR_Assessment.txt)**
 
 Overview: This file describes how my new information structure intersects with the FAIR (Findable, Accessible, Interoperable, Reusable) model. 
 
@@ -32,7 +32,7 @@ Last Updated: 28 April 2025
 
 Format: TXT
 
-**2.4. G6_Availability_Limitations_Ethics_Societal_Impact_Assessment**
+**2.4. [G6_Availability_Limitations_Ethics_Societal_Impact_Assessment](2.4_G6_Availability_Limitations_Ethics_Societal_Impact_Assessment.html)**
 
 Overview: This file contains an Availability, Limitations, Ethics and Societal Impact analysis to accompany my new information product.
 
@@ -40,7 +40,7 @@ Last Updated: 7 May 2025
 
 Format: HTML
 
-**2.5. G7_Improved_Information_Structure_Format**
+**2.5. [G7_Improved_Information_Structure_Format](2.5_G7_Improved_Information_Structure_Format.pdf)**
 
 Overview: This file contains samples of the existing information structure and new proposed structure. It also describes how my new information structure promotes quality maintenance and information security.
 
@@ -48,7 +48,7 @@ Last Updated: 14 May 2025
 
 Format: PDF
 
-**2.6. G8_Improved_Access_Methodoloy**
+**2.6. [G8_Improved_Access_Methodology](2.6_G8_Improved_Access_Methodology.md)**
 
 Overview: This file describes how to access the first version of my information structure, including specific instructions. (Note that these instructions were updated to reflect the final version of my information structure – see *Section 5* below).
 
@@ -56,7 +56,7 @@ Last Updated: 21 May 2025
 
 Format: MD
 
-**2.7. G9_Test_Plan**
+**2.7. [G9_Test_Plan](2.7_G9_Test_Plan.md)**
 
 Overview: This file contains a test plan for ‘The Diary Project’, including several basic functional and performance tests.
 
@@ -66,19 +66,19 @@ Format: MD
 
 ## **3. Key Project Artifacts**
 
-**3.1. Project_Artifact_A_dummy_diary_entries_list.json**
+**3.1. [Project_Artifact_A_dummy_diary_entries_list](3.1_Project_Artifact_A_dummy_diary_entries_list.json)**
 
 Overview: This file contains the 300 dummy diary entries, structured in line with my new taxonomy and generated with the assistance of artificial intelligence (AI) tools (Google Gemini Pro).
 
 Format: JSON
 
-**3.2. Project_Artifact_B_Python_code.py**
+**3.2. [Project_Artifact_B_Python_code](3.2_Project_Artifact_B_Python_code.py)**
 
 Overview: This file contains the Python code used to build my Flask-based API, generated with the assistance of Google Gemini Pro.
 
 Format: Python
 
-**3.3. Project_Artifact_C_User_Interface_Code.html**
+**3.3. [Project_Artifact_C_User_Interface_Code](3.3_Project_Artifact_C_User_Interface_Code.html)**
 
 Overview: This file contains the HTML code used to build my front-end interface that allows users to filter entries via form fields (e.g., country, date, OCR confidence) and visualize the results. This code was generated with the assistance of Google Gemini Pro.
 
@@ -86,7 +86,7 @@ Format: HTML
 
 ## **4. Final Presentation Files**
 
-**4.1. FINAL_Presentation_Slides**
+**4.1. [Final_Presentation_Slides](4.1_FINAL_Presentation_Slides.pdf)**
 
 Overview: This file contains the slide deck from my in-class presentation.
 
@@ -94,7 +94,7 @@ Last Updated: 3 June 2025
 
 Format: PDF
 
-**4.2. FINAL_Presentation_Speaking_Notes**
+**4.2. [Final_Presentation_Speaking_Notes](4.2_FINAL_Presentation_Speaking_Notes.pdf)**
 
 Overview: This file contains the accompanying speaking notes from my in-class presentation.
 
