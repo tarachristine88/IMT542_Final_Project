@@ -58,9 +58,9 @@ Format: MD
 
 **2.7. [G9_Test_Plan](2.7_G9_Test_Plan.md)**
 
-Overview: This file contains a test plan for ‘The Diary Project’, including several basic functional and performance tests.
+Overview: This file contains a test plan for ‘The Diary Project’, including several basic functional and performance tests. It has been updated to reflect feedback regarding inclusion of specific monitoring and alerts, automated actions, and an ongoing maintenance schedule.
 
-Last Updated: 30 May 2025
+Last Updated: 6 June 2025
 
 Format: MD
 
