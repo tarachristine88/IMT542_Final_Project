@@ -50,7 +50,7 @@ Format: PDF
 
 **2.6. [G8_Improved_Access_Methodology](2.6_G8_Improved_Access_Methodology.md)**
 
-Overview: This file describes how to access the first version of my information structure, including specific instructions. (Note that these instructions were updated to reflect the final version of my information structure – see *Section 5* below).
+Overview: This file describes how to access the first version of my information structure, including specific instructions. (Note that these instructions were updated on 5 June 2025, to reflect the final version of my information structure – see *Section 5* below).
 
 Last Updated: 21 May 2025
 
