@@ -147,15 +147,11 @@ This [tutorial](https://drive.google.com/file/d/1IUZbwNhP5qxJoJdUMVOUZTbvMxPJDPp
 
 **Video Tutorial 2**
 
-This tutorial shows how to access the endpoint through the API (based on my second / final iteration).
-
-https://drive.google.com/file/d/1atG-FTf1D-8lUEU5Y6pxdSNwruLZyQa1/view?usp=drive_link
+This [tutorial](https://drive.google.com/file/d/1atG-FTf1D-8lUEU5Y6pxdSNwruLZyQa1/view?usp=drive_link) shows how to access the endpoint through the API (based on my second / final iteration).
 
 **Video Tutorial 3**
 
-This video introduces a functional prototype with a more sophisticated front-end user interface. It was created with the assistance of Lovable AI Coding.
-
-https://drive.google.com/file/d/1eOnymmoOeDxR3uE3jtpK3FJyqFwFfOqY/view?usp=sharing 
+This [video](https://drive.google.com/file/d/1eOnymmoOeDxR3uE3jtpK3FJyqFwFfOqY/view?usp=sharing) introduces a functional prototype with a more sophisticated front-end user interface. It was created with the assistance of Lovable AI Coding.
 
 ## **7. Cloud Hosting**
 
