@@ -16,7 +16,7 @@ Last Updated: 15 April 2025
 
 Format: JSON
 
-**2.2. G4_Initial_Information_Story**
+**2.2. [G4_Initial_Information_Story](2.2_G4_Initial_Information_Story.pdf)**
 
 Overview: This file provides a visual summary of ‘The Diary Project’ information story, including wireframes, access considerations, and information architecture.
 
